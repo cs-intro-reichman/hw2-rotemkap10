@@ -8,7 +8,7 @@ public class Collatz {
 		String mode = args[1];
 		if(mode2.equals(mode))
 				{
-					System.out.println("Every one of the first " + n + " hailstone sequences reached 1");
+					System.out.println("Every one of the first " + n + " hailstone sequences reached 1.");
 					return;
 				}
 		if(d ==1)
